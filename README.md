@@ -139,6 +139,8 @@ primary_region = 'nrt'
 $ flyctl launch
 
 ⚠️ Do you want to tweak these settings before proceeding? Yes
+
+? Create .dockerignore from 1 .gitignore files? No
 ```
 ![image](https://github.com/hyunsungJoo/joo-json-server/assets/91647614/04d79465-958e-419a-a283-c1ecf74dc803)
 
@@ -176,4 +178,5 @@ primary_region = 'nrt'
 $ flyctl deploy
 ```
  
+![image](https://github.com/hyunsungJoo/joo-json-server/assets/91647614/794e04ee-b04b-40f7-b54f-5ee8e472aeb0)
 
