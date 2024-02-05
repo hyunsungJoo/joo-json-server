@@ -9,5 +9,9 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "kms": [
+    { "id": "1", "name": "kim"},
+    { "id": "2", "name": "hong"}
+  ]
 }
